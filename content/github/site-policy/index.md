@@ -1,6 +1,6 @@
 ---
-title: Site policy
-redirect_from:
+title: Site policy.musa.com.pk
+redirect_from:musa.com.pk
   - /categories/61/articles/
   - /categories/site-policy
 versions:
